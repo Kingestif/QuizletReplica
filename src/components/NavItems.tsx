@@ -4,6 +4,6 @@ type NavItemProps = {
 
 export function NavItem(props: NavItemProps) {
     return (
-        <div>{props.label}</div>
+        <div className="text-blue-500">{props.label}</div>
     );
 }
