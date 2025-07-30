@@ -30,7 +30,7 @@ export function ThreeDot() {
 
 export function MiniNav(){
     return (
-        <div className="flex gap-10 items-center justify-between mx-100">
+        <div className="flex gap-10 items-center justify-between">
             <h1 className="text-gray-600 font-semibold">Organic Chemistry</h1>
             <div className="flex gap-7">
                 <Save label="Save"/>
