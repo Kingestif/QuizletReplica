@@ -62,7 +62,7 @@ MIT
 
 ## Demo UI
 ![UI 1](/public/assets/quiz1.png)
-![UI 2](/public/assets/quiz1.png)
+![UI 2](/public/assets/quiz2.png)
 
 ---
 
